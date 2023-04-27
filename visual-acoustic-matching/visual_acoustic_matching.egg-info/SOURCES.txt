@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+vam/__init__.py
+vam/inference.py
+vam/loss.py
+vam/trainer.py
+visual_acoustic_matching.egg-info/PKG-INFO
+visual_acoustic_matching.egg-info/SOURCES.txt
+visual_acoustic_matching.egg-info/dependency_links.txt
+visual_acoustic_matching.egg-info/requires.txt
+visual_acoustic_matching.egg-info/top_level.txt
